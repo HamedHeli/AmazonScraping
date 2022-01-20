@@ -12,7 +12,7 @@ Four projects are included from which three of them have been completed and I am
     * Wells Fargo is also shown to be a good second choice as its perfomance is different with that of Bank of America and causes more diverse portfolio
     * CitiGroup is a good choice for short-time traders: it can provide high gains but it is a high-risk investment and it can also lead to high losses
 
-    **Disclaimer: I am not expert in stock (I atually have little knowledge in the field), the conclusions are not meant to be a robust financial analysis or be taken as financial advice.**
+    *Disclaimer: I am not expert in stock (I atually have little knowledge in the field), the conclusions are not meant to be a robust financial analysis or be taken as financial advice.*
     
     
  * :telephone_receiver: [911 Calls](https://github.com/HamedHeli/PythonProjects/blob/016d47925324a5e1714614c3592f54bab88cb5ab/911%20Calls%20(Capstone%20Project)/911%20Calls%20(Capstone%20Project).ipynb) (completed): 
