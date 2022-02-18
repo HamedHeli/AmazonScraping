@@ -34,6 +34,10 @@ Four projects are included from which three of them have been completed and I am
     * Review Rating
     * Url address
 
+* :large_blue_diamond: [Predicting Diamond Price](https://github.com/HamedHeli/PythonProjects/blob/10b85de3469994af5f22abc8aca62dc78eb95ce9/Diamond/Diamond.ipynb) (completed): 
+      
+   In this project, I make a linear model for predicting the diamond's price based on its carate, clarity, color, and cut. Including the data with more than 50,000 rows, I trained the model by using 0.5% of the population (training population) and then test the model using the rest to verify the model's accuracy. The model shows >80% accurracy (in terms of R-squared).   
+
 
 * :movie_camera: [Movie Industry](https://github.com/HamedHeli/PythonProjects/blob/a33ce30fafd909651f29d5ed2a271c7410014c4a/Factors%20of%20Earning%20in%20Movies%20(Correlation)/Factors%20of%20Earning%20in%20Movies.ipynb) (in progress): 
     
