@@ -3,6 +3,12 @@
 # Python Projects
 Here, I am describing some of the python projects that I have done. The projects have been performed inspired by the courses that I took or my personal intersts. 
 Four projects are included from which three of them have been completed and I am still working on one of them. 
+
+  * :chart_with_upwards_trend: [Statistical Analysis](https://github.com/HamedHeli/PythonProjects/blob/182e3699aef0d3d26b58c7990478ec9fb6c857d7/Statistical%20Analysis/Statistical%20Analysis.ipynb) (completed): 
+      
+      In this project, I am presenting part of statistical analysis that I did for my Ph.D. prject. I am analyzing the properties of one of the human organ (prostate gland) to see which of them is being affected by the cancer. For this purpose, I am finding the **statistics of the data** and calculate **confidence intervals**; then, I try to find the effective properties (on cancer) by defining **alternative hypotheses** and find the **t-score and p-values** for each hypothesis. The properties with low p-value are then introduced as those that will be afffected by cancer. (this project is part of my Ph.D. project and so I removed the parts that I am not yet able to publicly share)   
+      
+
   * :chart: [Bank Stock Market](https://github.com/HamedHeli/PythonProjects/blob/016d47925324a5e1714614c3592f54bab88cb5ab/Bank%20Stock%20Market/Bank%20Stock%20After%20Covid%20.ipynb) (completed): 
       
       In this project, I am comparing the performance of six large US bank stock after the pandemic (from Jan 2020 - Dec 2021) and try to explore how they recovered. After processing data, I have **concluded** that:
